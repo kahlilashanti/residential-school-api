@@ -623,6 +623,18 @@
             "post code": "R9A 1K2",
             "year opened": "1952",
             "year closed": "1979"
+        },
+        {
+            "id": 51,
+            "name": "McKay/Dauphin",
+            "city": "Dauphin",
+            "province": "Manitoba",
+            "denomination": "Anglican",
+            "latitude": "51.150037",
+            "longitude": "-100.0497",
+            "post code": "R7N 2T3",
+            "year opened": "1914",
+            "year closed": "1988"
         }
     ]
 }
