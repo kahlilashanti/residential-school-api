@@ -527,6 +527,102 @@
             "post code": "V8B 0J2",
             "year opened": "1899",
             "year closed": "1959"
+        },
+        {
+            "id": 43,
+            "name": "Assiniboia",
+            "city": "Winnipeg",
+            "province": "Manitoba",
+            "denomination": "Catholic",
+            "latitude": "49.895136",
+            "longitude": "-97.138374",
+            "post code": "R3C 0M2",
+            "year opened": "1958",
+            "year closed": "1973"
+        },
+        {
+            "id": 44,
+            "name": "Birtle",
+            "city": "Birtle",
+            "province": "Manitoba",
+            "denomination": "Presbyterian",
+            "latitude": "50.422134",
+            "longitude": "-101.045201",
+            "post code": "R0M 0C0",
+            "year opened": "1888",
+            "year closed": "1970"
+        },
+        {
+            "id": 45,
+            "name": "Brandon",
+            "city": "Brandon",
+            "province": "Manitoba",
+            "denomination": "Presbyterian",
+            "latitude": "49.848471",
+            "longitude": "-99.95009",
+            "post code": "R0M 0C0",
+            "year opened": "1895",
+            "year closed": "1972"
+        },
+        {
+            "id": 46,
+            "name": "Churchill",
+            "city": "Churchill",
+            "province": "Manitoba",
+            "denomination": "Non-Demoninational",
+            "latitude": "58.768411",
+            "longitude": "-94.164964",
+            "post code": "R0B 0E0",
+            "year opened": "1964",
+            "year closed": "1973"
+        },
+        {
+            "id": 47,
+            "name": "Cross Lake",
+            "city": "Cross Lake",
+            "province": "Manitoba",
+            "denomination": "Catholic",
+            "latitude": "54.625632",
+            "longitude": "-97.779637",
+            "post code": "R0B 0J0",
+            "year opened": "1912",
+            "year closed": "1969"
+        },
+        {
+            "id": 48,
+            "name": "Elkhorn/Washakada",
+            "city": "Elkhorn",
+            "province": "Manitoba",
+            "denomination": "Anglican",
+            "latitude": "48.554842",
+            "longitude": "-88.87385",
+            "post code": "R0M 0N0",
+            "year opened": "1889",
+            "year closed": "1949"
+        },
+        {
+            "id": 49,
+            "name": "Fort Alexander/Pine Falls",
+            "city": "Fort Alexander",
+            "province": "Manitoba",
+            "denomination": "Catholic",
+            "latitude": "50.600912",
+            "longitude": "-96.29054",
+            "post code": "R0E 0P0",
+            "year opened": "1905",
+            "year closed": "1970"
+        },
+        {
+            "id": 50,
+            "name": "Guy Hill/Clearwater",
+            "city": "The Pas",
+            "province": "Manitoba",
+            "denomination": "Catholic",
+            "latitude": "53.825527",
+            "longitude": "-101.247613",
+            "post code": "R9A 1K2",
+            "year opened": "1952",
+            "year closed": "1979"
         }
     ]
 }
