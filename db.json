@@ -1211,6 +1211,102 @@
             "post code": "P8T 1J6",
             "year opened": "1927",
             "year closed": "1978"
+        },
+        {
+            "id": 101,
+            "name": "Poplar Hill",
+            "city": "Poplar Hill",
+            "province": "Ontario",
+            "denomination": "Mennonite",
+            "latitude": "44.038475",
+            "longitude": "-78.474404",
+            "post code": "P0V 3E0",
+            "year opened": "1962",
+            "year closed": "1989"
+        },
+        {
+            "id": 102,
+            "name": "Shingwauk/Wawanosh",
+            "city": "Sioux Ste Marie",
+            "province": "Ontario",
+            "denomination": "Anglican",
+            "latitude": "46.521858",
+            "longitude": "-84.34609",
+            "post code": "P6A 5L1",
+            "year opened": "1878",
+            "year closed": "1970"
+        },
+        {
+            "id": 103,
+            "name": "Spanish Boys School/St Peter Claver",
+            "city": "Spanish",
+            "province": "Ontario",
+            "denomination": "Catholic",
+            "latitude": "46.194796",
+            "longitude": "-82.342278",
+            "post code": "P0P 2A0",
+            "year opened": "1879",
+            "year closed": "1958"
+        },
+        {
+            "id": 104,
+            "name": "Spanish Girls School/St Annes",
+            "city": "Spanish",
+            "province": "Ontario",
+            "denomination": "Catholic",
+            "latitude": "46.194796",
+            "longitude": "-82.342278",
+            "post code": "P0P 2A0",
+            "year opened": "1868",
+            "year closed": "1962"
+        },
+        {
+            "id": 105,
+            "name": "St Annes/Ft Albany",
+            "city": "Fort Albany",
+            "province": "Ontario",
+            "denomination": "Catholic",
+            "latitude": "52.213022",
+            "longitude": "-81.682452",
+            "post code": "P0L 1H0",
+            "year opened": "1906",
+            "year closed": "1976"
+        },
+        {
+            "id": 106,
+            "name": "St Marys/St Anthonys",
+            "city": "Kenora",
+            "province": "Ontario",
+            "denomination": "Catholic",
+            "latitude": "49.793003",
+            "longitude": "-94.466165",
+            "post code": "P9N 3W9",
+            "year opened": "1897",
+            "year closed": "1972"
+        },
+        {
+            "id": 107,
+            "name": "Stirland Lake High School/Wahbon Bay Academy",
+            "city": "Stirland Lake",
+            "province": "Ontario",
+            "denomination": "Mennonite",
+            "latitude": "52.3367",
+            "longitude": "-91.0406",
+            "post code": "",
+            "year opened": "1971",
+            "year closed": "1991"
+        },
+        {
+            "id": 108,
+            "name": "Wawanosh Home",
+            "city": "Sault Ste Marie",
+            "province": "Ontario",
+            "denomination": "Anglican",
+            "latitude": "46.521858",
+            "longitude": "-84.34609",
+            "post code": "P6A 5L1",
+            "year opened": "1879",
+            "year closed": "1892"
         }
     ]
 }
