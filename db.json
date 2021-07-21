@@ -1091,6 +1091,126 @@
             "post code": "Y1A 4N2",
             "year opened": "1960",
             "year closed": "1985"
+        },
+        {
+            "id": 91,
+            "name": "Bishop Horden Hall/Moose Factory",
+            "city": "Moose Factory",
+            "province": "Ontario",
+            "denomination": "Anglican",
+            "latitude": "51.262486",
+            "longitude": "-80.592965",
+            "post code": "P0L 1W0",
+            "year opened": "1906",
+            "year closed": "1976"
+        },
+        {
+            "id": 92,
+            "name": "Cecilia Jeffrey/Shoal Lake",
+            "city": "Kenora",
+            "province": "Ontario",
+            "denomination": "Presbyterian",
+            "latitude": "49.793003",
+            "longitude": "-94.466165",
+            "post code": "P9N 3W9",
+            "year opened": "1902",
+            "year closed": "1976"
+        },
+        {
+            "id": 93,
+            "name": "Chapleau/St Johns",
+            "city": "Chapleau",
+            "province": "Ontario",
+            "denomination": "Anglican",
+            "latitude": "47.844487",
+            "longitude": "-83.404365",
+            "post code": "P0M IK0",
+            "year opened": "1907",
+            "year closed": "1948"
+        },
+        {
+            "id": 94,
+            "name": "Cristal Lake High School",
+            "city": "Stirland Lake",
+            "province": "Ontario",
+            "denomination": "Mennonite",
+            "latitude": "52.3367",
+            "longitude": "-91.0406",
+            "post code": "",
+            "year opened": "1976",
+            "year closed": "1986"
+        },
+        {
+            "id": 95,
+            "name": "Fort Frances/Coochiching",
+            "city": "Fort Frances",
+            "province": "Ontario",
+            "denomination": "Catholic",
+            "latitude": "48.615278",
+            "longitude": "-93.401667",
+            "post code": "P9A 3X7",
+            "year opened": "1906",
+            "year closed": "1974"
+        },
+        {
+            "id": 96,
+            "name": "Fort William/St Josephs",
+            "city": "Fort William",
+            "province": "Ontario",
+            "denomination": "Catholic",
+            "latitude": "48.382409",
+            "longitude": "-89.245615",
+            "post code": "P7J 1H9",
+            "year opened": "1885",
+            "year closed": "1970"
+        },
+        {
+            "id": 97,
+            "name": "McIntosh/Kenora",
+            "city": "McIntosh",
+            "province": "Ontario",
+            "denomination": "Catholic",
+            "latitude": "49.979326",
+            "longitude": "-93.602778",
+            "post code": "P7C 3B1",
+            "year opened": "1925",
+            "year closed": "1969"
+        },
+        {
+            "id": 98,
+            "name": "Mohawk Institute/Mechanics Institute",
+            "city": "Brantford",
+            "province": "Ontario",
+            "denomination": "Anglican",
+            "latitude": "43.152999",
+            "longitude": "-80.263754",
+            "post code": "N3T 5M2",
+            "year opened": "1885",
+            "year closed": "1970"
+        },
+        {
+            "id": 99,
+            "name": "Mount Elgin/Munceytown",
+            "city": "Muncey",
+            "province": "Ontario",
+            "denomination": "Methodist United",
+            "latitude": "42.820147",
+            "longitude": "-81.440304",
+            "post code": "N3T 5M2",
+            "year opened": "1867",
+            "year closed": "1946"
+        },
+        {
+            "id": 100,
+            "name": "Pelican Lake/Pelican Falls",
+            "city": "Sioux Lookout",
+            "province": "Ontario",
+            "denomination": "Anglican",
+            "latitude": "50.097832",
+            "longitude": "-91.922038",
+            "post code": "P8T 1J6",
+            "year opened": "1927",
+            "year closed": "1978"
         }
     ]
 }
