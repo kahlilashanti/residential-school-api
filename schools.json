@@ -1307,6 +1307,138 @@
             "post code": "P6A 5L1",
             "year opened": "1879",
             "year closed": "1892"
+        },
+        {
+            "id": 109,
+            "name": "Amos/Saint-Marc-de-Figuery",
+            "city": "Amos",
+            "province": "Quebec",
+            "denomination": "Catholic",
+            "latitude": "48.581999",
+            "longitude": "-78.108601",
+            "post code": "J9T 2E1",
+            "year opened": "1955",
+            "year closed": "1973"
+        },
+        {
+            "id": 110,
+            "name": "Federal Hostel at George River/Kangiqsualujjuaq",
+            "city": "Kangiqsualujjuaq",
+            "province": "Quebec",
+            "denomination": "Non-Denominational",
+            "latitude": "58.710155",
+            "longitude": "-65.995116",
+            "post code": "J0M 1N0",
+            "year opened": "1960",
+            "year closed": "1960"
+        },
+        {
+            "id": 111,
+            "name": "Federal Hostel at Great Whale River/Poste-de-la-Baleine",
+            "city": "Kuujjuaraapik/Whapmagoostui",
+            "province": "Quebec",
+            "denomination": "Non-Denominational",
+            "latitude": "55.25",
+            "longitude": "-77.75",
+            "post code": "J0M 1G0",
+            "year opened": "1960",
+            "year closed": "1970"
+        },
+        {
+            "id": 112,
+            "name": "Federal Hostel at Payne Bay/Bellin",
+            "city": "Kangirsuk",
+            "province": "Quebec",
+            "denomination": "Non-Denominational",
+            "latitude": "60.028278",
+            "longitude": "-70.043083",
+            "post code": "J0M 1A0",
+            "year opened": "1960",
+            "year closed": "1962"
+        },
+        {
+            "id": 113,
+            "name": "Federal Hostel at Port Harrison/Inoucdjouac",
+            "city": "Inukjuak",
+            "province": "Quebec",
+            "denomination": "Non-Denominational",
+            "latitude": "58.45591",
+            "longitude": "-78.118156",
+            "post code": "J0M 1M0",
+            "year opened": "1960",
+            "year closed": "1971"
+        },
+        {
+            "id": 114,
+            "name": "Fort George Church of England/St Phillips",
+            "city": "Fort George",
+            "province": "Quebec",
+            "denomination": "Anglican",
+            "latitude": "45.828588",
+            "longitude": "-74.195841",
+            "post code": "",
+            "year opened": "1933",
+            "year closed": "1975"
+        },
+        {
+            "id": 115,
+            "name": "Fort George Hostels",
+            "city": "Fort George",
+            "province": "Quebec",
+            "denomination": "Non-Denominational",
+            "latitude": "45.828588",
+            "longitude": "-74.195841",
+            "post code": "",
+            "year opened": "1975",
+            "year closed": "1978"
+        },
+        {
+            "id": 116,
+            "name": "Fort George Roman Catholic/Residence Couture",
+            "city": "Fort George",
+            "province": "Quebec",
+            "denomination": "Catholic",
+            "latitude": "45.828588",
+            "longitude": "-74.195841",
+            "post code": "",
+            "year opened": "1937",
+            "year closed": "1981"
+        },
+        {
+            "id": 117,
+            "name": "La Tuque",
+            "city": "La Tuque",
+            "province": "Quebec",
+            "denomination": "Anglican",
+            "latitude": "47.43778",
+            "longitude": "-72.780593",
+            "post code": "G9X 3B4",
+            "year opened": "1963",
+            "year closed": "1978"
+        },
+        {
+            "id": 118,
+            "name": "Mistassini Hostels",
+            "city": "Mistassini Hostels",
+            "province": "Quebec",
+            "denomination": "Non-Denominational",
+            "latitude": "48.882624",
+            "longitude": "-72.233381",
+            "post code": "G8L 6A6",
+            "year opened": "1971",
+            "year closed": "1978"
+        },
+        {
+            "id": 119,
+            "name": "Pointe Bleue",
+            "city": "Pointe Bleue",
+            "province": "Quebec",
+            "denomination": "Catholic",
+            "latitude": "48.581996",
+            "longitude": "-72.230629",
+            "post code": "",
+            "year opened": "1960",
+            "year closed": "1991"
         }
     ]
 }
