@@ -11,7 +11,7 @@ function getSchools() {
 }
 
 function getAPI() {
-    fetch('https://trc-residential-api.herokuapp.com/res-schools')
+    fetch('https://trc-residential-api.herokuapp.com/res_schools')
         .then((res) => res.json())
         .then((data) => {
             // console.log(data)
@@ -19,13 +19,12 @@ function getAPI() {
             data.forEach(function (res_schools) {
                 output += `
                 <ul>
-                    <li>Name: ${res_schools.name}</li>
-                    <li>Name: ${res_schools.city}</li>
-                </ul>
-                
-                
-                `
-
+                    <li>Name ${res_schools.name}</li>
+                    <li>City ${res_schools.city}</li>
+                    <li>Province ${res_schools.province}</li>
+                </ul >
+            `;
             })
+            document.getElementById('output').innerHTML = output;
         })
 }

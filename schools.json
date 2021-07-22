@@ -8,9 +8,9 @@
             "denomination": "Catholic",
             "latitude": "53.196621",
             "longitude": "-113.052299",
-            "post code": "T0B 1W0",
-            "year opened": "1951",
-            "year closed": "1974"
+            "post_code": "T0B 1W0",
+            "year_opened": "1951",
+            "year_closed": "1974"
         },
         {
             "id": 1,
@@ -20,9 +20,9 @@
             "denomination": "Catholic",
             "latitude": "53.976870",
             "longitude": "-111.695640",
-            "post code": "T0A 0A1",
-            "year opened": "1898",
-            "year closed": "1990"
+            "post_code": "T0A 0A1",
+            "year_opened": "1898",
+            "year_closed": "1990"
         },
         {
             "id": 2,
@@ -32,9 +32,9 @@
             "denomination": "Catholic",
             "latitude": "50.836047",
             "longitude": "-112.866848",
-            "post code": "T0J 0S0",
-            "year opened": "1900",
-            "year closed": "1968"
+            "post_code": "T0J 0S0",
+            "year_opened": "1900",
+            "year_closed": "1968"
         },
         {
             "id": 3,
@@ -44,9 +44,9 @@
             "denomination": "Catholic",
             "latitude": "55.942964",
             "longitude": "-113.801857",
-            "post code": "T0J 0S0",
-            "year opened": "1902",
-            "year closed": "1973"
+            "post_code": "T0J 0S0",
+            "year_opened": "1902",
+            "year_closed": "1973"
         },
         {
             "id": 4,
@@ -56,9 +56,9 @@
             "denomination": "United",
             "latitude": "53.630475",
             "longitude": "-113.625642",
-            "post code": "T8N 5N6",
-            "year opened": "1924",
-            "year closed": "1968"
+            "post_code": "T8N 5N6",
+            "year_opened": "1924",
+            "year_closed": "1968"
         },
         {
             "id": 5,
@@ -68,9 +68,9 @@
             "denomination": "Catholic",
             "latitude": "52.786021",
             "longitude": "-113.428373",
-            "post code": "T0C 1N0",
-            "year opened": "1895",
-            "year closed": "1975"
+            "post_code": "T0C 1N0",
+            "year_opened": "1895",
+            "year_closed": "1975"
         },
         {
             "id": 6,
@@ -80,9 +80,9 @@
             "denomination": "Catholic",
             "latitude": "58.386811",
             "longitude": "-116.011801",
-            "post code": "T0H 1N0",
-            "year opened": "1903",
-            "year closed": "1968"
+            "post_code": "T0H 1N0",
+            "year_opened": "1903",
+            "year_closed": "1968"
         },
         {
             "id": 7,
@@ -92,9 +92,9 @@
             "denomination": "Catholic",
             "latitude": "55.523223",
             "longitude": "-116.159278",
-            "post code": "T0G 1C0",
-            "year opened": "1894",
-            "year closed": "1957"
+            "post_code": "T0G 1C0",
+            "year_opened": "1894",
+            "year_closed": "1957"
         },
         {
             "id": 8,
@@ -104,9 +104,9 @@
             "denomination": "Catholic",
             "latitude": "58.719637",
             "longitude": "-111.140697",
-            "post code": "T0P 1B0",
-            "year opened": "1900",
-            "year closed": "1974"
+            "post_code": "T0P 1B0",
+            "year_opened": "1900",
+            "year_closed": "1974"
         },
         {
             "id": 9,
@@ -116,9 +116,9 @@
             "denomination": "Catholic",
             "latitude": "55.397153",
             "longitude": "-115.952693",
-            "post code": "T0G 1J0",
-            "year opened": "1913",
-            "year closed": "1969"
+            "post_code": "T0G 1J0",
+            "year_opened": "1913",
+            "year_closed": "1969"
         },
         {
             "id": 10,
@@ -128,9 +128,9 @@
             "denomination": "Catholic",
             "latitude": "54.769642",
             "longitude": "-111.972514",
-            "post code": "T0A 2C1",
-            "year opened": "1893",
-            "year closed": "1898"
+            "post_code": "T0A 2C1",
+            "year_opened": "1893",
+            "year_closed": "1898"
         },
         {
             "id": 11,
@@ -140,9 +140,9 @@
             "denomination": "Anglican",
             "latitude": "55.431256",
             "longitude": "-115.603896",
-            "post code": "T0G 0N0",
-            "year opened": "1895",
-            "year closed": "1932"
+            "post_code": "T0G 0N0",
+            "year_opened": "1895",
+            "year_closed": "1932"
         },
         {
             "id": 12,
@@ -152,9 +152,9 @@
             "denomination": "Methodist United",
             "latitude": "51.161543",
             "longitude": "-114.850968",
-            "post code": "T0L 1N0",
-            "year opened": "1922",
-            "year closed": "1969"
+            "post_code": "T0L 1N0",
+            "year_opened": "1922",
+            "year_closed": "1969"
         },
         {
             "id": 13,
@@ -164,9 +164,9 @@
             "denomination": "Anglican",
             "latitude": "50.870189",
             "longitude": "-113.155053",
-            "post code": "T0J 1N0",
-            "year opened": "1886",
-            "year closed": "1971"
+            "post_code": "T0J 1N0",
+            "year_opened": "1886",
+            "year_closed": "1971"
         },
         {
             "id": 14,
@@ -176,9 +176,9 @@
             "denomination": "Catholic",
             "latitude": "49.52",
             "longitude": "-113.93",
-            "post code": "T0K 1W0",
-            "year opened": "1887",
-            "year closed": "1961"
+            "post_code": "T0K 1W0",
+            "year_opened": "1887",
+            "year_closed": "1961"
         },
         {
             "id": 15,
@@ -188,9 +188,9 @@
             "denomination": "Catholic",
             "latitude": "53.630475",
             "longitude": "-113.625642",
-            "post code": "T8N 1K1",
-            "year opened": "1873",
-            "year closed": "1948"
+            "post_code": "T8N 1K1",
+            "year_opened": "1873",
+            "year_closed": "1948"
         },
         {
             "id": 16,
@@ -200,9 +200,9 @@
             "denomination": "Methodist",
             "latitude": "52.268112",
             "longitude": "-113.811239",
-            "post code": "T4R 3N7",
-            "year opened": "1893",
-            "year closed": "1919"
+            "post_code": "T4R 3N7",
+            "year_opened": "1893",
+            "year_closed": "1919"
         },
         {
             "id": 17,
@@ -212,9 +212,9 @@
             "denomination": "Anglican",
             "latitude": "50.950029",
             "longitude": "-114.141184",
-            "post code": "T3T 0A2",
-            "year opened": "1892",
-            "year closed": "1921"
+            "post_code": "T3T 0A2",
+            "year_opened": "1892",
+            "year_closed": "1921"
         },
         {
             "id": 18,
@@ -224,9 +224,9 @@
             "denomination": "Catholic",
             "latitude": "56.230976",
             "longitude": "-117.288829",
-            "post code": "T8S 1V8",
-            "year opened": "1900",
-            "year closed": "1907"
+            "post_code": "T8S 1V8",
+            "year_opened": "1900",
+            "year_closed": "1907"
         },
         {
             "id": 19,
@@ -236,9 +236,9 @@
             "denomination": "Anglican",
             "latitude": "49.52",
             "longitude": "-113.93",
-            "post code": "T0K 1W0",
-            "year opened": "1890",
-            "year closed": "1961"
+            "post_code": "T0K 1W0",
+            "year_opened": "1890",
+            "year_closed": "1961"
         },
         {
             "id": 20,
@@ -248,9 +248,9 @@
             "denomination": "Catholic",
             "latitude": "50.581619",
             "longitude": "-113.93",
-            "post code": "T1V 1M2",
-            "year opened": "1884",
-            "year closed": "1922"
+            "post_code": "T1V 1M2",
+            "year_opened": "1884",
+            "year_closed": "1922"
         },
         {
             "id": 21,
@@ -260,9 +260,9 @@
             "denomination": "Catholic",
             "latitude": "49.195066",
             "longitude": "-113.301798",
-            "post code": "T0K 0K0",
-            "year opened": "1884",
-            "year closed": "1922"
+            "post_code": "T0K 0K0",
+            "year_opened": "1884",
+            "year_closed": "1922"
         },
         {
             "id": 22,
@@ -272,9 +272,9 @@
             "denomination": "Anglican",
             "latitude": "49.195066",
             "longitude": "-113.301798",
-            "post code": "T0K 0K0",
-            "year opened": "1893",
-            "year closed": "1975"
+            "post_code": "T0K 0K0",
+            "year_opened": "1893",
+            "year_closed": "1975"
         },
         {
             "id": 23,
@@ -284,9 +284,9 @@
             "denomination": "Catholic",
             "latitude": "55.07194",
             "longitude": "-117.53889",
-            "post code": "T0H 0P0",
-            "year opened": "1907",
-            "year closed": "1961"
+            "post_code": "T0H 0P0",
+            "year_opened": "1907",
+            "year_closed": "1961"
         },
         {
             "id": 24,
@@ -296,9 +296,9 @@
             "denomination": "Anglican",
             "latitude": "55.961614",
             "longitude": "-113.826698",
-            "post code": "T0G 2K0",
-            "year opened": "1902",
-            "year closed": "1966"
+            "post_code": "T0G 2K0",
+            "year_opened": "1902",
+            "year_closed": "1966"
         },
         {
             "id": 24,
@@ -308,9 +308,9 @@
             "denomination": "Anglican",
             "latitude": "54.368275",
             "longitude": "-111.899378",
-            "post code": "T0A 3L0",
-            "year opened": "1908",
-            "year closed": "1950"
+            "post_code": "T0A 3L0",
+            "year_opened": "1908",
+            "year_closed": "1950"
         },
         {
             "id": 25,
@@ -320,9 +320,9 @@
             "denomination": "Presbyterian United",
             "latitude": "49.276149",
             "longitude": "-126.059018",
-            "post code": "V0R 1A0",
-            "year opened": "1904",
-            "year closed": "1940"
+            "post_code": "V0R 1A0",
+            "year_opened": "1904",
+            "year_closed": "1940"
         },
         {
             "id": 26,
@@ -332,9 +332,9 @@
             "denomination": "Presbyterian United",
             "latitude": "49.233888",
             "longitude": "-124.805549",
-            "post code": "V9Y 1T9",
-            "year opened": "1900",
-            "year closed": "1973"
+            "post_code": "V9Y 1T9",
+            "year_opened": "1900",
+            "year_closed": "1973"
         },
         {
             "id": 27,
@@ -344,9 +344,9 @@
             "denomination": "Catholic",
             "latitude": "52.466667",
             "longitude": "-125.316667",
-            "post code": "V0L 1C0",
-            "year opened": "1968",
-            "year closed": "1977"
+            "post_code": "V0L 1C0",
+            "year_opened": "1968",
+            "year_closed": "1977"
         },
         {
             "id": 28,
@@ -356,9 +356,9 @@
             "denomination": "Catholic",
             "latitude": "52.134171",
             "longitude": "-122.138702",
-            "post code": "V2G 0A3",
-            "year opened": "1891",
-            "year closed": "1981"
+            "post_code": "V2G 0A3",
+            "year_opened": "1891",
+            "year_closed": "1981"
         },
         {
             "id": 29,
@@ -368,9 +368,9 @@
             "denomination": "Catholic",
             "latitude": "49.181824",
             "longitude": "-125.83143",
-            "post code": "V0R 2Z0",
-            "year opened": "1900",
-            "year closed": "1983"
+            "post_code": "V0R 2Z0",
+            "year_opened": "1900",
+            "year_closed": "1983"
         },
         {
             "id": 30,
@@ -380,9 +380,9 @@
             "denomination": "Methodist United",
             "latitude": "49.181824",
             "longitude": "-125.83143",
-            "post code": "V2P 6H6",
-            "year opened": "1889",
-            "year closed": "1940"
+            "post_code": "V2P 6H6",
+            "year_opened": "1889",
+            "year_closed": "1940"
         },
         {
             "id": 31,
@@ -392,9 +392,9 @@
             "denomination": "Catholic",
             "latitude": "49.512968",
             "longitude": "-115.7694",
-            "post code": "V1C 4H5",
-            "year opened": "1890",
-            "year closed": "1970"
+            "post_code": "V1C 4H5",
+            "year_opened": "1890",
+            "year_closed": "1970"
         },
         {
             "id": 32,
@@ -404,9 +404,9 @@
             "denomination": "Catholic",
             "latitude": "50.676111",
             "longitude": "-120.340833",
-            "post code": "V2C 5K2",
-            "year opened": "1890",
-            "year closed": "1978"
+            "post_code": "V2C 5K2",
+            "year_opened": "1890",
+            "year_closed": "1978"
         },
         {
             "id": 33,
@@ -416,9 +416,9 @@
             "denomination": "Methodist United",
             "latitude": "54.062911",
             "longitude": "-128.638353",
-            "post code": "V8C 2G5",
-            "year opened": "1908",
-            "year closed": "1941"
+            "post_code": "V8C 2G5",
+            "year_opened": "1908",
+            "year_closed": "1941"
         },
         {
             "id": 34,
@@ -428,9 +428,9 @@
             "denomination": "Catholic",
             "latitude": "48.959084",
             "longitude": "-123.644931",
-            "post code": "V0R 5K0",
-            "year opened": "1890",
-            "year closed": "1975"
+            "post_code": "V0R 5K0",
+            "year_opened": "1890",
+            "year_closed": "1975"
         },
         {
             "id": 35,
@@ -440,9 +440,9 @@
             "denomination": "Catholic",
             "latitude": "54.05623",
             "longitude": "-124.849555",
-            "post code": "V0J 1S0",
-            "year opened": "1917",
-            "year closed": "1976"
+            "post_code": "V0J 1S0",
+            "year_opened": "1917",
+            "year_closed": "1976"
         },
         {
             "id": 36,
@@ -452,9 +452,9 @@
             "denomination": "Catholic",
             "latitude": "59.924238",
             "longitude": "-128.496221",
-            "post code": "V0C 1W0",
-            "year opened": "1951",
-            "year closed": "1975"
+            "post_code": "V0C 1W0",
+            "year_opened": "1951",
+            "year_closed": "1975"
         },
         {
             "id": 37,
@@ -464,9 +464,9 @@
             "denomination": "Methodist United",
             "latitude": "54.577972",
             "longitude": "-130.427895",
-            "post code": "V0V 1H0",
-            "year opened": "1892",
-            "year closed": "1948"
+            "post_code": "V0V 1H0",
+            "year_opened": "1892",
+            "year_closed": "1948"
         },
         {
             "id": 38,
@@ -476,9 +476,9 @@
             "denomination": "Catholic",
             "latitude": "49.474174",
             "longitude": "-123.75456",
-            "post code": "V0N 3A0",
-            "year opened": "1904",
-            "year closed": "1975"
+            "post_code": "V0N 3A0",
+            "year_opened": "1904",
+            "year_closed": "1975"
         },
         {
             "id": 39,
@@ -488,9 +488,9 @@
             "denomination": "Anglican",
             "latitude": "50.233258",
             "longitude": "-121.581404",
-            "post code": "V0K 1Z0",
-            "year opened": "1901",
-            "year closed": "1979"
+            "post_code": "V0K 1Z0",
+            "year_opened": "1901",
+            "year_closed": "1979"
         },
         {
             "id": 40,
@@ -500,9 +500,9 @@
             "denomination": "Catholic",
             "latitude": "49.132927",
             "longitude": "-122.32616",
-            "post code": "V2V 4J2",
-            "year opened": "1867",
-            "year closed": "1984"
+            "post_code": "V2V 4J2",
+            "year_opened": "1867",
+            "year_closed": "1984"
         },
         {
             "id": 41,
@@ -512,9 +512,9 @@
             "denomination": "Anglican",
             "latitude": "50.587694",
             "longitude": "-126.938179",
-            "post code": "V0N 1A0",
-            "year opened": "1894",
-            "year closed": "1974"
+            "post_code": "V0N 1A0",
+            "year_opened": "1894",
+            "year_closed": "1974"
         },
         {
             "id": 42,
@@ -524,9 +524,9 @@
             "denomination": "Catholic",
             "latitude": "49.699666",
             "longitude": "-123.155096",
-            "post code": "V8B 0J2",
-            "year opened": "1899",
-            "year closed": "1959"
+            "post_code": "V8B 0J2",
+            "year_opened": "1899",
+            "year_closed": "1959"
         },
         {
             "id": 43,
@@ -536,9 +536,9 @@
             "denomination": "Catholic",
             "latitude": "49.895136",
             "longitude": "-97.138374",
-            "post code": "R3C 0M2",
-            "year opened": "1958",
-            "year closed": "1973"
+            "post_code": "R3C 0M2",
+            "year_opened": "1958",
+            "year_closed": "1973"
         },
         {
             "id": 44,
@@ -548,9 +548,9 @@
             "denomination": "Presbyterian",
             "latitude": "50.422134",
             "longitude": "-101.045201",
-            "post code": "R0M 0C0",
-            "year opened": "1888",
-            "year closed": "1970"
+            "post_code": "R0M 0C0",
+            "year_opened": "1888",
+            "year_closed": "1970"
         },
         {
             "id": 45,
@@ -560,9 +560,9 @@
             "denomination": "Presbyterian",
             "latitude": "49.848471",
             "longitude": "-99.95009",
-            "post code": "R0M 0C0",
-            "year opened": "1895",
-            "year closed": "1972"
+            "post_code": "R0M 0C0",
+            "year_opened": "1895",
+            "year_closed": "1972"
         },
         {
             "id": 46,
@@ -572,9 +572,9 @@
             "denomination": "Non-Demoninational",
             "latitude": "58.768411",
             "longitude": "-94.164964",
-            "post code": "R0B 0E0",
-            "year opened": "1964",
-            "year closed": "1973"
+            "post_code": "R0B 0E0",
+            "year_opened": "1964",
+            "year_closed": "1973"
         },
         {
             "id": 47,
@@ -584,9 +584,9 @@
             "denomination": "Catholic",
             "latitude": "54.625632",
             "longitude": "-97.779637",
-            "post code": "R0B 0J0",
-            "year opened": "1912",
-            "year closed": "1969"
+            "post_code": "R0B 0J0",
+            "year_opened": "1912",
+            "year_closed": "1969"
         },
         {
             "id": 48,
@@ -596,9 +596,9 @@
             "denomination": "Anglican",
             "latitude": "48.554842",
             "longitude": "-88.87385",
-            "post code": "R0M 0N0",
-            "year opened": "1889",
-            "year closed": "1949"
+            "post_code": "R0M 0N0",
+            "year_opened": "1889",
+            "year_closed": "1949"
         },
         {
             "id": 49,
@@ -608,9 +608,9 @@
             "denomination": "Catholic",
             "latitude": "50.600912",
             "longitude": "-96.29054",
-            "post code": "R0E 0P0",
-            "year opened": "1905",
-            "year closed": "1970"
+            "post_code": "R0E 0P0",
+            "year_opened": "1905",
+            "year_closed": "1970"
         },
         {
             "id": 50,
@@ -620,9 +620,9 @@
             "denomination": "Catholic",
             "latitude": "53.825527",
             "longitude": "-101.247613",
-            "post code": "R9A 1K2",
-            "year opened": "1952",
-            "year closed": "1979"
+            "post_code": "R9A 1K2",
+            "year_opened": "1952",
+            "year_closed": "1979"
         },
         {
             "id": 51,
@@ -632,9 +632,9 @@
             "denomination": "Anglican",
             "latitude": "51.150037",
             "longitude": "-100.0497",
-            "post code": "R7N 2T3",
-            "year opened": "1914",
-            "year closed": "1988"
+            "post_code": "R7N 2T3",
+            "year_opened": "1914",
+            "year_closed": "1988"
         },
         {
             "id": 52,
@@ -644,9 +644,9 @@
             "denomination": "Methodist United",
             "latitude": "53.982065",
             "longitude": "-97.832932",
-            "post code": "R0B 1B0",
-            "year opened": "1899",
-            "year closed": "1967"
+            "post_code": "R0B 1B0",
+            "year_opened": "1899",
+            "year_closed": "1967"
         },
         {
             "id": 53,
@@ -656,9 +656,9 @@
             "denomination": "Catholic",
             "latitude": "54.625632",
             "longitude": "-97.779637",
-            "post code": "R0B 0J0",
-            "year opened": "1960",
-            "year closed": "1967"
+            "post_code": "R0B 0J0",
+            "year_opened": "1960",
+            "year_closed": "1967"
         },
         {
             "id": 54,
@@ -668,9 +668,9 @@
             "denomination": "Catholic",
             "latitude": "51.987846",
             "longitude": "-100.147958",
-            "post code": "R0L 0J0",
-            "year opened": "1890",
-            "year closed": "1969"
+            "post_code": "R0L 0J0",
+            "year_opened": "1890",
+            "year_closed": "1969"
         },
         {
             "id": 55,
@@ -680,9 +680,9 @@
             "denomination": "Presbyterian United",
             "latitude": "49.972321",
             "longitude": "-98.290325",
-            "post code": "R1N 3A7",
-            "year opened": "1891",
-            "year closed": "1975"
+            "post_code": "R1N 3A7",
+            "year_opened": "1891",
+            "year_closed": "1975"
         },
         {
             "id": 56,
@@ -692,9 +692,9 @@
             "denomination": "Catholic",
             "latitude": "50.527844",
             "longitude": "-98.689763",
-            "post code": "R0H 0T0",
-            "year opened": "1905",
-            "year closed": "1970"
+            "post_code": "R0H 0T0",
+            "year_opened": "1905",
+            "year_closed": "1970"
         },
         {
             "id": 57,
@@ -704,9 +704,9 @@
             "denomination": "Non-Denominational",
             "latitude": "62.453972",
             "longitude": "-114.371789",
-            "post code": "X1A 2L8",
-            "year opened": "1958",
-            "year closed": "1994"
+            "post_code": "X1A 2L8",
+            "year_opened": "1958",
+            "year_closed": "1994"
         },
         {
             "id": 58,
@@ -716,9 +716,9 @@
             "denomination": "Anglican",
             "latitude": "68.219916",
             "longitude": "-135.007788",
-            "post code": "X0E 0A0",
-            "year opened": "1936",
-            "year closed": "1959"
+            "post_code": "X0E 0A0",
+            "year_opened": "1936",
+            "year_closed": "1959"
         },
         {
             "id": 59,
@@ -728,9 +728,9 @@
             "denomination": "Anglican",
             "latitude": "61.332255",
             "longitude": "-122.097275",
-            "post code": "X0E 0N0",
-            "year opened": "1960",
-            "year closed": "1975"
+            "post_code": "X0E 0N0",
+            "year_opened": "1960",
+            "year_closed": "1975"
         },
         {
             "id": 60,
@@ -740,9 +740,9 @@
             "denomination": "Catholic",
             "latitude": "60.014159",
             "longitude": "-112.072999",
-            "post code": "X0E 0P0",
-            "year opened": "1957",
-            "year closed": "1975"
+            "post_code": "X0E 0P0",
+            "year_opened": "1957",
+            "year_closed": "1975"
         },
         {
             "id": 62,
@@ -752,9 +752,9 @@
             "denomination": "Anglican",
             "latitude": "60.186027",
             "longitude": "-134.7006",
-            "post code": "X0E 0P0",
-            "year opened": "1903",
-            "year closed": "1969"
+            "post_code": "X0E 0P0",
+            "year_opened": "1903",
+            "year_closed": "1969"
         },
         {
             "id": 63,
@@ -764,9 +764,9 @@
             "denomination": "Catholic",
             "latitude": "62.813",
             "longitude": "-92.0812",
-            "post code": "X0C 0B0",
-            "year opened": "1954",
-            "year closed": "1969"
+            "post_code": "X0C 0B0",
+            "year_opened": "1954",
+            "year_closed": "1969"
         },
         {
             "id": 64,
@@ -776,9 +776,9 @@
             "denomination": "Catholic",
             "latitude": "60.721187",
             "longitude": "-135.056845",
-            "post code": "Y1A 4N2",
-            "year opened": "1960",
-            "year closed": "1971"
+            "post_code": "Y1A 4N2",
+            "year_opened": "1960",
+            "year_closed": "1971"
         },
         {
             "id": 65,
@@ -788,9 +788,9 @@
             "denomination": "Non-Denominational",
             "latitude": "64.324444",
             "longitude": "-96.001667",
-            "post code": "X0C 0A0",
-            "year opened": "1961",
-            "year closed": "1968"
+            "post_code": "X0C 0A0",
+            "year_opened": "1961",
+            "year_closed": "1968"
         },
         {
             "id": 66,
@@ -800,9 +800,9 @@
             "denomination": "Non-Denominational",
             "latitude": "56.540768",
             "longitude": "-79.22321",
-            "post code": "X0A 0W0",
-            "year opened": "1963",
-            "year closed": "1964"
+            "post_code": "X0A 0W0",
+            "year_opened": "1963",
+            "year_closed": "1964"
         },
         {
             "id": 67,
@@ -812,9 +812,9 @@
             "denomination": "Non-Denominational",
             "latitude": "67.558056",
             "longitude": "-64.024722",
-            "post code": "X0A 0B0",
-            "year opened": "1961",
-            "year closed": "1966"
+            "post_code": "X0A 0B0",
+            "year_opened": "1961",
+            "year_closed": "1966"
         },
         {
             "id": 68,
@@ -824,9 +824,9 @@
             "denomination": "Non-Denominational",
             "latitude": "69.117222",
             "longitude": "-105.053056",
-            "post code": "X0B 0C0",
-            "year opened": "1964",
-            "year closed": "1997"
+            "post_code": "X0B 0C0",
+            "year_opened": "1964",
+            "year_closed": "1997"
         },
         {
             "id": 69,
@@ -836,9 +836,9 @@
             "denomination": "Non-Denominational",
             "latitude": "64.228265",
             "longitude": "-76.542169",
-            "post code": "X0A 0C0",
-            "year opened": "1962",
-            "year closed": "1965"
+            "post_code": "X0A 0C0",
+            "year_opened": "1962",
+            "year_closed": "1965"
         },
         {
             "id": 70,
@@ -848,9 +848,9 @@
             "denomination": "Non-Denominational",
             "latitude": "61.107828",
             "longitude": "-94.062369",
-            "post code": "X0C 0E0",
-            "year opened": "1962",
-            "year closed": "1967"
+            "post_code": "X0C 0E0",
+            "year_opened": "1962",
+            "year_closed": "1967"
         },
         {
             "id": 71,
@@ -860,9 +860,9 @@
             "denomination": "Non-Denominational",
             "latitude": "65.189085",
             "longitude": "-123.428489",
-            "post code": "X0E 0G0",
-            "year opened": "1967",
-            "year closed": "1972"
+            "post_code": "X0E 0G0",
+            "year_opened": "1967",
+            "year_closed": "1972"
         },
         {
             "id": 72,
@@ -872,9 +872,9 @@
             "denomination": "Non-Denominational",
             "latitude": "63.746693",
             "longitude": "-68.516967",
-            "post code": "X0A 0H0",
-            "year opened": "1971",
-            "year closed": "1995"
+            "post_code": "X0A 0H0",
+            "year_opened": "1971",
+            "year_closed": "1995"
         },
         {
             "id": 73,
@@ -884,9 +884,9 @@
             "denomination": "Non-Denominational",
             "latitude": "69.376111",
             "longitude": "-81.799444",
-            "post code": "X0A 0L0",
-            "year opened": "1961",
-            "year closed": "1969"
+            "post_code": "X0A 0L0",
+            "year_opened": "1961",
+            "year_closed": "1969"
         },
         {
             "id": 74,
@@ -896,9 +896,9 @@
             "denomination": "Non-Denominational",
             "latitude": "62.847419",
             "longitude": "-69.869203",
-            "post code": "X0A 0N0",
-            "year opened": "1963",
-            "year closed": "1965"
+            "post_code": "X0A 0N0",
+            "year_opened": "1963",
+            "year_closed": "1965"
         },
         {
             "id": 75,
@@ -908,9 +908,9 @@
             "denomination": "Non-Denominational",
             "latitude": "66.146558",
             "longitude": "-65.701218",
-            "post code": "X0A 0R0",
-            "year opened": "1964",
-            "year closed": "1967"
+            "post_code": "X0A 0R0",
+            "year_opened": "1964",
+            "year_closed": "1967"
         },
         {
             "id": 76,
@@ -920,9 +920,9 @@
             "denomination": "Non-Denominational",
             "latitude": "72.700117",
             "longitude": "-77.958532",
-            "post code": "X0A 0S0",
-            "year opened": "1962",
-            "year closed": "1970"
+            "post_code": "X0A 0S0",
+            "year_opened": "1962",
+            "year_closed": "1970"
         },
         {
             "id": 77,
@@ -932,9 +932,9 @@
             "denomination": "Anglican",
             "latitude": "67.825231",
             "longitude": "-115.09655",
-            "post code": "X0B 0E0",
-            "year opened": "1951",
-            "year closed": "1959"
+            "post_code": "X0B 0E0",
+            "year_opened": "1951",
+            "year_closed": "1959"
         },
         {
             "id": 78,
@@ -944,9 +944,9 @@
             "denomination": "Anglican",
             "latitude": "67.436445",
             "longitude": "-134.880755",
-            "post code": "X0E 0J0",
-            "year opened": "1955",
-            "year closed": "1976"
+            "post_code": "X0E 0J0",
+            "year_opened": "1955",
+            "year_closed": "1976"
         },
         {
             "id": 79,
@@ -956,9 +956,9 @@
             "denomination": "Catholic",
             "latitude": "60.014159",
             "longitude": "-112.072999",
-            "post code": "X0E 0P0",
-            "year opened": "1960",
-            "year closed": "1985"
+            "post_code": "X0E 0P0",
+            "year_opened": "1960",
+            "year_closed": "1985"
         },
         {
             "id": 80,
@@ -968,9 +968,9 @@
             "denomination": "Catholic",
             "latitude": "68.360744",
             "longitude": "-133.723018",
-            "post code": "X0E 0T0",
-            "year opened": "1959",
-            "year closed": "1997"
+            "post_code": "X0E 0T0",
+            "year_opened": "1959",
+            "year_closed": "1997"
         },
         {
             "id": 81,
@@ -980,9 +980,9 @@
             "denomination": "Anglican",
             "latitude": "60.816218",
             "longitude": "-115.785365",
-            "post code": "X0E 0R0",
-            "year opened": "1959",
-            "year closed": "1997"
+            "post_code": "X0E 0R0",
+            "year_opened": "1959",
+            "year_closed": "1997"
         },
         {
             "id": 82,
@@ -992,9 +992,9 @@
             "denomination": "Catholic",
             "latitude": "68.219916",
             "longitude": "-135.007788",
-            "post code": "X0E 0A0",
-            "year opened": "1926",
-            "year closed": "1959"
+            "post_code": "X0E 0A0",
+            "year_opened": "1926",
+            "year_closed": "1959"
         },
         {
             "id": 83,
@@ -1004,9 +1004,9 @@
             "denomination": "Catholic",
             "latitude": "61.332255",
             "longitude": "-122.097275",
-            "post code": "X0E 0N0",
-            "year opened": "1960",
-            "year closed": "1998"
+            "post_code": "X0E 0N0",
+            "year_opened": "1960",
+            "year_closed": "1998"
         },
         {
             "id": 84,
@@ -1016,9 +1016,9 @@
             "denomination": "Catholic",
             "latitude": "61.357624",
             "longitude": "-117.660654",
-            "post code": "X0E 0L0",
-            "year opened": "1906",
-            "year closed": "1960"
+            "post_code": "X0E 0L0",
+            "year_opened": "1906",
+            "year_closed": "1960"
         },
         {
             "id": 85,
@@ -1028,9 +1028,9 @@
             "denomination": "Anglican",
             "latitude": "68.988771",
             "longitude": "-137.362267",
-            "post code": " ",
-            "year opened": "1929",
-            "year closed": "1936"
+            "post_code": " ",
+            "year_opened": "1929",
+            "year_closed": "1936"
         },
         {
             "id": 86,
@@ -1040,9 +1040,9 @@
             "denomination": "Catholic",
             "latitude": "61.017589",
             "longitude": "-113.733599",
-            "post code": "X0E 0M0",
-            "year opened": "1903",
-            "year closed": "1957"
+            "post_code": "X0E 0M0",
+            "year_opened": "1903",
+            "year_closed": "1957"
         },
         {
             "id": 87,
@@ -1052,9 +1052,9 @@
             "denomination": "Anglican",
             "latitude": "64.06007",
             "longitude": "-139.432035",
-            "post code": "Y0B 1G0",
-            "year opened": "1920",
-            "year closed": "1943"
+            "post_code": "Y0B 1G0",
+            "year_opened": "1920",
+            "year_closed": "1943"
         },
         {
             "id": 88,
@@ -1064,9 +1064,9 @@
             "denomination": "Anglican",
             "latitude": "68.360744",
             "longitude": "-133.723018",
-            "post code": "X0E 0T0",
-            "year opened": "1959",
-            "year closed": "1975"
+            "post_code": "X0E 0T0",
+            "year_opened": "1959",
+            "year_closed": "1975"
         },
         {
             "id": 89,
@@ -1076,9 +1076,9 @@
             "denomination": "Baptist",
             "latitude": "60.721187",
             "longitude": "-135.056845",
-            "post code": "Y1A 4N2",
-            "year opened": "1947",
-            "year closed": "1960"
+            "post_code": "Y1A 4N2",
+            "year_opened": "1947",
+            "year_closed": "1960"
         },
         {
             "id": 90,
@@ -1088,9 +1088,9 @@
             "denomination": "Non-Denominational",
             "latitude": "60.721187",
             "longitude": "-135.056845",
-            "post code": "Y1A 4N2",
-            "year opened": "1960",
-            "year closed": "1985"
+            "post_code": "Y1A 4N2",
+            "year_opened": "1960",
+            "year_closed": "1985"
         },
         {
             "id": 91,
@@ -1100,9 +1100,9 @@
             "denomination": "Anglican",
             "latitude": "51.262486",
             "longitude": "-80.592965",
-            "post code": "P0L 1W0",
-            "year opened": "1906",
-            "year closed": "1976"
+            "post_code": "P0L 1W0",
+            "year_opened": "1906",
+            "year_closed": "1976"
         },
         {
             "id": 92,
@@ -1112,9 +1112,9 @@
             "denomination": "Presbyterian",
             "latitude": "49.793003",
             "longitude": "-94.466165",
-            "post code": "P9N 3W9",
-            "year opened": "1902",
-            "year closed": "1976"
+            "post_code": "P9N 3W9",
+            "year_opened": "1902",
+            "year_closed": "1976"
         },
         {
             "id": 93,
@@ -1124,9 +1124,9 @@
             "denomination": "Anglican",
             "latitude": "47.844487",
             "longitude": "-83.404365",
-            "post code": "P0M IK0",
-            "year opened": "1907",
-            "year closed": "1948"
+            "post_code": "P0M IK0",
+            "year_opened": "1907",
+            "year_closed": "1948"
         },
         {
             "id": 94,
@@ -1136,9 +1136,9 @@
             "denomination": "Mennonite",
             "latitude": "52.3367",
             "longitude": "-91.0406",
-            "post code": "",
-            "year opened": "1976",
-            "year closed": "1986"
+            "post_code": "",
+            "year_opened": "1976",
+            "year_closed": "1986"
         },
         {
             "id": 95,
@@ -1148,9 +1148,9 @@
             "denomination": "Catholic",
             "latitude": "48.615278",
             "longitude": "-93.401667",
-            "post code": "P9A 3X7",
-            "year opened": "1906",
-            "year closed": "1974"
+            "post_code": "P9A 3X7",
+            "year_opened": "1906",
+            "year_closed": "1974"
         },
         {
             "id": 96,
@@ -1160,9 +1160,9 @@
             "denomination": "Catholic",
             "latitude": "48.382409",
             "longitude": "-89.245615",
-            "post code": "P7J 1H9",
-            "year opened": "1885",
-            "year closed": "1970"
+            "post_code": "P7J 1H9",
+            "year_opened": "1885",
+            "year_closed": "1970"
         },
         {
             "id": 97,
@@ -1172,9 +1172,9 @@
             "denomination": "Catholic",
             "latitude": "49.979326",
             "longitude": "-93.602778",
-            "post code": "P7C 3B1",
-            "year opened": "1925",
-            "year closed": "1969"
+            "post_code": "P7C 3B1",
+            "year_opened": "1925",
+            "year_closed": "1969"
         },
         {
             "id": 98,
@@ -1184,9 +1184,9 @@
             "denomination": "Anglican",
             "latitude": "43.152999",
             "longitude": "-80.263754",
-            "post code": "N3T 5M2",
-            "year opened": "1885",
-            "year closed": "1970"
+            "post_code": "N3T 5M2",
+            "year_opened": "1885",
+            "year_closed": "1970"
         },
         {
             "id": 99,
@@ -1196,9 +1196,9 @@
             "denomination": "Methodist United",
             "latitude": "42.820147",
             "longitude": "-81.440304",
-            "post code": "N3T 5M2",
-            "year opened": "1867",
-            "year closed": "1946"
+            "post_code": "N3T 5M2",
+            "year_opened": "1867",
+            "year_closed": "1946"
         },
         {
             "id": 100,
@@ -1208,9 +1208,9 @@
             "denomination": "Anglican",
             "latitude": "50.097832",
             "longitude": "-91.922038",
-            "post code": "P8T 1J6",
-            "year opened": "1927",
-            "year closed": "1978"
+            "post_code": "P8T 1J6",
+            "year_opened": "1927",
+            "year_closed": "1978"
         },
         {
             "id": 101,
@@ -1220,9 +1220,9 @@
             "denomination": "Mennonite",
             "latitude": "44.038475",
             "longitude": "-78.474404",
-            "post code": "P0V 3E0",
-            "year opened": "1962",
-            "year closed": "1989"
+            "post_code": "P0V 3E0",
+            "year_opened": "1962",
+            "year_closed": "1989"
         },
         {
             "id": 102,
@@ -1232,9 +1232,9 @@
             "denomination": "Anglican",
             "latitude": "46.521858",
             "longitude": "-84.34609",
-            "post code": "P6A 5L1",
-            "year opened": "1878",
-            "year closed": "1970"
+            "post_code": "P6A 5L1",
+            "year_opened": "1878",
+            "year_closed": "1970"
         },
         {
             "id": 103,
@@ -1244,9 +1244,9 @@
             "denomination": "Catholic",
             "latitude": "46.194796",
             "longitude": "-82.342278",
-            "post code": "P0P 2A0",
-            "year opened": "1879",
-            "year closed": "1958"
+            "post_code": "P0P 2A0",
+            "year_opened": "1879",
+            "year_closed": "1958"
         },
         {
             "id": 104,
@@ -1256,9 +1256,9 @@
             "denomination": "Catholic",
             "latitude": "46.194796",
             "longitude": "-82.342278",
-            "post code": "P0P 2A0",
-            "year opened": "1868",
-            "year closed": "1962"
+            "post_code": "P0P 2A0",
+            "year_opened": "1868",
+            "year_closed": "1962"
         },
         {
             "id": 105,
@@ -1268,9 +1268,9 @@
             "denomination": "Catholic",
             "latitude": "52.213022",
             "longitude": "-81.682452",
-            "post code": "P0L 1H0",
-            "year opened": "1906",
-            "year closed": "1976"
+            "post_code": "P0L 1H0",
+            "year_opened": "1906",
+            "year_closed": "1976"
         },
         {
             "id": 106,
@@ -1280,9 +1280,9 @@
             "denomination": "Catholic",
             "latitude": "49.793003",
             "longitude": "-94.466165",
-            "post code": "P9N 3W9",
-            "year opened": "1897",
-            "year closed": "1972"
+            "post_code": "P9N 3W9",
+            "year_opened": "1897",
+            "year_closed": "1972"
         },
         {
             "id": 107,
@@ -1292,9 +1292,9 @@
             "denomination": "Mennonite",
             "latitude": "52.3367",
             "longitude": "-91.0406",
-            "post code": "",
-            "year opened": "1971",
-            "year closed": "1991"
+            "post_code": "",
+            "year_opened": "1971",
+            "year_closed": "1991"
         },
         {
             "id": 108,
@@ -1304,9 +1304,9 @@
             "denomination": "Anglican",
             "latitude": "46.521858",
             "longitude": "-84.34609",
-            "post code": "P6A 5L1",
-            "year opened": "1879",
-            "year closed": "1892"
+            "post_code": "P6A 5L1",
+            "year_opened": "1879",
+            "year_closed": "1892"
         },
         {
             "id": 109,
@@ -1316,9 +1316,9 @@
             "denomination": "Catholic",
             "latitude": "48.581999",
             "longitude": "-78.108601",
-            "post code": "J9T 2E1",
-            "year opened": "1955",
-            "year closed": "1973"
+            "post_code": "J9T 2E1",
+            "year_opened": "1955",
+            "year_closed": "1973"
         },
         {
             "id": 110,
@@ -1328,9 +1328,9 @@
             "denomination": "Non-Denominational",
             "latitude": "58.710155",
             "longitude": "-65.995116",
-            "post code": "J0M 1N0",
-            "year opened": "1960",
-            "year closed": "1960"
+            "post_code": "J0M 1N0",
+            "year_opened": "1960",
+            "year_closed": "1960"
         },
         {
             "id": 111,
@@ -1340,9 +1340,9 @@
             "denomination": "Non-Denominational",
             "latitude": "55.25",
             "longitude": "-77.75",
-            "post code": "J0M 1G0",
-            "year opened": "1960",
-            "year closed": "1970"
+            "post_code": "J0M 1G0",
+            "year_opened": "1960",
+            "year_closed": "1970"
         },
         {
             "id": 112,
@@ -1352,9 +1352,9 @@
             "denomination": "Non-Denominational",
             "latitude": "60.028278",
             "longitude": "-70.043083",
-            "post code": "J0M 1A0",
-            "year opened": "1960",
-            "year closed": "1962"
+            "post_code": "J0M 1A0",
+            "year_opened": "1960",
+            "year_closed": "1962"
         },
         {
             "id": 113,
@@ -1364,9 +1364,9 @@
             "denomination": "Non-Denominational",
             "latitude": "58.45591",
             "longitude": "-78.118156",
-            "post code": "J0M 1M0",
-            "year opened": "1960",
-            "year closed": "1971"
+            "post_code": "J0M 1M0",
+            "year_opened": "1960",
+            "year_closed": "1971"
         },
         {
             "id": 114,
@@ -1376,9 +1376,9 @@
             "denomination": "Anglican",
             "latitude": "45.828588",
             "longitude": "-74.195841",
-            "post code": "",
-            "year opened": "1933",
-            "year closed": "1975"
+            "post_code": "",
+            "year_opened": "1933",
+            "year_closed": "1975"
         },
         {
             "id": 115,
@@ -1388,9 +1388,9 @@
             "denomination": "Non-Denominational",
             "latitude": "45.828588",
             "longitude": "-74.195841",
-            "post code": "",
-            "year opened": "1975",
-            "year closed": "1978"
+            "post_code": "",
+            "year_opened": "1975",
+            "year_closed": "1978"
         },
         {
             "id": 116,
@@ -1400,9 +1400,9 @@
             "denomination": "Catholic",
             "latitude": "45.828588",
             "longitude": "-74.195841",
-            "post code": "",
-            "year opened": "1937",
-            "year closed": "1981"
+            "post_code": "",
+            "year_opened": "1937",
+            "year_closed": "1981"
         },
         {
             "id": 117,
@@ -1412,9 +1412,9 @@
             "denomination": "Anglican",
             "latitude": "47.43778",
             "longitude": "-72.780593",
-            "post code": "G9X 3B4",
-            "year opened": "1963",
-            "year closed": "1978"
+            "post_code": "G9X 3B4",
+            "year_opened": "1963",
+            "year_closed": "1978"
         },
         {
             "id": 118,
@@ -1424,9 +1424,9 @@
             "denomination": "Non-Denominational",
             "latitude": "48.882624",
             "longitude": "-72.233381",
-            "post code": "G8L 6A6",
-            "year opened": "1971",
-            "year closed": "1978"
+            "post_code": "G8L 6A6",
+            "year_opened": "1971",
+            "year_closed": "1978"
         },
         {
             "id": 119,
@@ -1436,9 +1436,9 @@
             "denomination": "Catholic",
             "latitude": "48.581996",
             "longitude": "-72.230629",
-            "post code": "",
-            "year opened": "1960",
-            "year closed": "1991"
+            "post_code": "",
+            "year_opened": "1960",
+            "year_closed": "1991"
         },
         {
             "id": 120,
@@ -1448,9 +1448,9 @@
             "denomination": "Anglican",
             "latitude": "53.687558",
             "longitude": "-108.572385",
-            "post code": "S0M 0K0",
-            "year opened": "1883",
-            "year closed": "1914"
+            "post_code": "S0M 0K0",
+            "year_opened": "1883",
+            "year_closed": "1914"
         },
         {
             "id": 121,
@@ -1460,9 +1460,9 @@
             "denomination": "Catholic",
             "latitude": "55.15218",
             "longitude": "-107.607293",
-            "post code": "S0M 0G0",
-            "year opened": "1897",
-            "year closed": "1995"
+            "post_code": "S0M 0G0",
+            "year_opened": "1897",
+            "year_closed": "1995"
         },
         {
             "id": 122,
@@ -1472,9 +1472,9 @@
             "denomination": "Presbyterian United",
             "latitude": "51.565",
             "longitude": "-101.894722",
-            "post code": "S0A 1S0",
-            "year opened": "1928",
-            "year closed": "1940"
+            "post_code": "S0A 1S0",
+            "year_opened": "1928",
+            "year_closed": "1940"
         },
         {
             "id": 123,
@@ -1484,9 +1484,9 @@
             "denomination": "Presbyterian United",
             "latitude": "51.565",
             "longitude": "-101.894722",
-            "post code": "S0A 1S0",
-            "year opened": "1889",
-            "year closed": "1915"
+            "post_code": "S0A 1S0",
+            "year_opened": "1889",
+            "year_closed": "1915"
         },
         {
             "id": 124,
@@ -1496,9 +1496,9 @@
             "denomination": "Presbyterian United",
             "latitude": "50.804747",
             "longitude": "-103.542723",
-            "post code": "S0G 0C0",
-            "year opened": "1889",
-            "year closed": "1949"
+            "post_code": "S0G 0C0",
+            "year_opened": "1889",
+            "year_closed": "1949"
         },
         {
             "id": 125,
@@ -1508,9 +1508,9 @@
             "denomination": "Catholic",
             "latitude": "51.777835",
             "longitude": "-102.003441",
-            "post code": "S0A 2V0",
-            "year opened": "1905",
-            "year closed": "1913"
+            "post_code": "S0A 2V0",
+            "year_opened": "1905",
+            "year_closed": "1913"
         },
         {
             "id": 126,
@@ -1520,9 +1520,9 @@
             "denomination": "Anglican",
             "latitude": "51.370516",
             "longitude": "-104.296604",
-            "post code": "S0A 3C0",
-            "year opened": "1888",
-            "year closed": "1996"
+            "post_code": "S0A 3C0",
+            "year_opened": "1888",
+            "year_closed": "1996"
         },
         {
             "id": 127,
@@ -1532,9 +1532,9 @@
             "denomination": "Anglican",
             "latitude": "55.04304",
             "longitude": "-104.903304",
-            "post code": "S0J 1L0",
-            "year opened": "1894",
-            "year closed": "1997"
+            "post_code": "S0J 1L0",
+            "year_opened": "1894",
+            "year_closed": "1997"
         },
         {
             "id": 128,
@@ -1544,9 +1544,9 @@
             "denomination": "Catholic",
             "latitude": "50.757431",
             "longitude": "-103.704083",
-            "post code": "S0G 2Y0",
-            "year opened": "1884",
-            "year closed": "1998"
+            "post_code": "S0G 2Y0",
+            "year_opened": "1884",
+            "year_closed": "1998"
         },
         {
             "id": 129,
@@ -1556,9 +1556,9 @@
             "denomination": "Catholic",
             "latitude": "50.720024",
             "longitude": "-102.643016",
-            "post code": "S0A 1E0",
-            "year opened": "1898",
-            "year closed": "1997"
+            "post_code": "S0A 1E0",
+            "year_opened": "1898",
+            "year_closed": "1997"
         },
         {
             "id": 130,
@@ -1568,9 +1568,9 @@
             "denomination": "Catholic",
             "latitude": "51.298936",
             "longitude": "-103.892806",
-            "post code": "S0A 2G0",
-            "year opened": "1889",
-            "year closed": "1997"
+            "post_code": "S0A 2G0",
+            "year_opened": "1889",
+            "year_closed": "1997"
         },
         {
             "id": 131,
@@ -1580,9 +1580,9 @@
             "denomination": "Anglican",
             "latitude": "53.200113",
             "longitude": "-105.742478",
-            "post code": "S6V 5Z5",
-            "year opened": "1894",
-            "year closed": "1997"
+            "post_code": "S6V 5Z5",
+            "year_opened": "1894",
+            "year_closed": "1997"
         },
         {
             "id": 132,
@@ -1592,9 +1592,9 @@
             "denomination": "Non-Denominational",
             "latitude": "50.45",
             "longitude": "-104.61",
-            "post code": "S4P 2Z4",
-            "year opened": "1890",
-            "year closed": "1910"
+            "post_code": "S4P 2Z4",
+            "year_opened": "1890",
+            "year_closed": "1910"
         },
         {
             "id": 133,
@@ -1604,9 +1604,9 @@
             "denomination": "Presbyterian United Church",
             "latitude": "50.660839",
             "longitude": "-102.301617",
-            "post code": "S0A 3Y0",
-            "year opened": "1887",
-            "year closed": "1950"
+            "post_code": "S0A 3Y0",
+            "year_opened": "1887",
+            "year_closed": "1950"
         },
         {
             "id": 134,
@@ -1616,9 +1616,9 @@
             "denomination": "Catholic",
             "latitude": "53.717104",
             "longitude": "-109.997634",
-            "post code": "S0M 2E0",
-            "year opened": "1894",
-            "year closed": "1974"
+            "post_code": "S0M 2E0",
+            "year_opened": "1894",
+            "year_closed": "1974"
         },
         {
             "id": 135,
@@ -1628,9 +1628,9 @@
             "denomination": "Catholic",
             "latitude": "52.811855",
             "longitude": "-106.226027",
-            "post code": "S0K 1J0",
-            "year opened": "1894",
-            "year closed": "1996"
+            "post_code": "S0K 1J0",
+            "year_opened": "1894",
+            "year_closed": "1996"
         },
         {
             "id": 136,
@@ -1640,9 +1640,9 @@
             "denomination": "Catholic",
             "latitude": "51.565",
             "longitude": "-101.894722",
-            "post code": "S0A 1S0",
-            "year opened": "1928",
-            "year closed": "1969"
+            "post_code": "S0A 1S0",
+            "year_opened": "1928",
+            "year_closed": "1969"
         },
         {
             "id": 137,
@@ -1652,9 +1652,9 @@
             "denomination": "Catholic",
             "latitude": "54.279825",
             "longitude": "-101.818148",
-            "post code": "S0P 0H0",
-            "year opened": "1926",
-            "year closed": "1952"
+            "post_code": "S0P 0H0",
+            "year_opened": "1926",
+            "year_closed": "1952"
         },
         {
             "id": 138,
@@ -1664,9 +1664,9 @@
             "denomination": "Catholic",
             "latitude": "52.928889",
             "longitude": "-108.605",
-            "post code": "S0M 0P0",
-            "year opened": "1901",
-            "year closed": "1948"
+            "post_code": "S0M 0P0",
+            "year_opened": "1901",
+            "year_closed": "1948"
         },
         {
             "id": 139,
@@ -1676,9 +1676,9 @@
             "denomination": "Catholic",
             "latitude": "45.087964",
             "longitude": "-63.402",
-            "post code": "B0N 2H0",
-            "year opened": "1929",
-            "year closed": "1967"
+            "post_code": "B0N 2H0",
+            "year_opened": "1929",
+            "year_closed": "1967"
         }
     ]
 }
