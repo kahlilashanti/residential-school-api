@@ -1,0 +1,27 @@
+{
+  "name": "trc-res-schools",
+  "version": "1.0.0",
+  "description": "Canadian Residential Schools API",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kahlilashanti/residential-school-api.git"
+  },
+  "keywords": [
+    "residential",
+    "schools"
+  ],
+  "author": "Kahlil Ashanti and National Center for Truth and Reconciliation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kahlilashanti/residential-school-api/issues"
+  },
+  "homepage": "https://github.com/kahlilashanti/residential-school-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
