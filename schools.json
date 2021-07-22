@@ -1667,6 +1667,18 @@
             "post code": "S0M 0P0",
             "year opened": "1901",
             "year closed": "1948"
+        },
+        {
+            "id": 139,
+            "name": "Shubenacadie/St Annes Convent",
+            "city": "Shubenacadie",
+            "province": "Nova Scotia",
+            "denomination": "Catholic",
+            "latitude": "45.087964",
+            "longitude": "-63.402",
+            "post code": "B0N 2H0",
+            "year opened": "1929",
+            "year closed": "1967"
         }
     ]
 }
