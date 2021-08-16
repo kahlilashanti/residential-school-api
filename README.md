@@ -1,6 +1,10 @@
 # Canada Residential School API compiled by Kahlil Ashanti
+More information about the schools can be found on their archival website: https://archives.nctr.ca/actor/browse?sort=alphabetic&sortDir=asc&entityType=840
 
 ## Source: National Center for Truth and Reconciliation https://nctr.ca/
+
+View their Interactive Map, where they have mapped out the locations of the residential schools and added links to Archives for each school, here:
+https://nctr.ca/records/view-your-records/archival-map/
 
 The information in this API was compiled using information from the following resources:
 
@@ -35,3 +39,5 @@ In Canada, the Indian residential school system was a network of mandatory board
 funded by the Canadian government's Department of Indian Affairs and administered by Christian churches.
 
 source: https://wikipedia.org
+
+
